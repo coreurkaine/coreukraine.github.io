@@ -39,6 +39,8 @@ img {
   }
   .logo {
     position: relative;
+    width: 500px;
+    margin-left: -250px;
   }
   img {
     margin-bottom: 50px;
